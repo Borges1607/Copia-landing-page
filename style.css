@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: auto;
+}
+
+#titulo{
+    font-size:300%;
+    font-weight: bold;
+    border-color: white;
+}
+
+#dirigir{
+    font-weight: bold;
+    font-size: large;
+}
+
+#cinza{
+    background-color: rgb(224, 224, 224);
+    padding-top: 50px;
+    padding: 50px;
+}
+
+
